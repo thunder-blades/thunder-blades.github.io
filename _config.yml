@@ -32,6 +32,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - index.markdown
+  - about.markdown
+
 nav:
   - title: "Home"
     url: "/"
