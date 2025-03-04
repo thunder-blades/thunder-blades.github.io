@@ -35,12 +35,11 @@ plugins:
 header_pages:
   - index.markdown
   - about.markdown
-
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Over thunderblades"
-    url: "/about/"
+  - bestuur.markdown
+  - floorball.markdown
+  - kosten.markdown
+  - Gezamenlijke activiteiten.markdown
+  - Trainingen.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
