@@ -7,7 +7,7 @@ layout: home
 
 # Kom floorball ontdekken!
 
-Vindt jij floorball / unihockey leuk, of lijkt het je gewoon leuk een keertje te proberen? Dat kan! Je kunt 3 keer gratis een floorball les bij ons komen bijwonen. 
+Vindt jij floorball / unihockey leuk, of lijkt het je gewoon leuk het een keertje te proberen? Dat kan! Je kunt 3 keer gratis een floorball les bij ons komen bijwonen. 
 
 We hebben een gezellige trainingsgroep, waar voor ons vooral belangrijk is dat alle kinderen gewoon lekker kunnen sporten en hun grenzen leren verkennen. Je sluit aan bij een groep kinderen leeftijd 7 - 12~ die het afgelopen half jaar zijn begonnen met floorball. 
 
