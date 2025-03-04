@@ -5,9 +5,9 @@ permalink: /kosten/
 ---
 
 # Lidmaatschap:
-- Een speler kan 3x gratis meetrainen (per seizoen) zonder lid te zijn.
+- Een speler kan 3x gratis meetrainen zonder lid te zijn.
 - Een lidmaatschap wordt aangegaan voor het gehele schooljaar. 
-- We hebben het jaar opgedeeld in 4 periodes. Elke periode omvat ongeveer 2,5 maand en bevat 1 grotere activiteit en 1 toernooi.
+- We hebben het jaar opgedeeld in 4 periodes. Augustus - Oktober, November - Januari, Februari - April, Mei - juli. 
 - In de 1e periode koopt het lid een stick (en veiligheidsbril), maar betaalt nog geen contributie. Daarna wordt elke periode contributie betaalt.
 
 Einde lidmaatschap:
