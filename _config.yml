@@ -28,7 +28,7 @@ url: "https://thunder-blades.github.io/" # the base hostname & protocol for your
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: millennial
 plugins:
   - jekyll-feed
 
