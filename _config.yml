@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thunderblades
+title: Enschede Floorball Club Thunderblades
 email: bestuur.floorballenschede@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Floorball en unihockey vereniging Thunderblades voor jeugd in Enschede. 
