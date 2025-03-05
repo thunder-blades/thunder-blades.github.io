@@ -5,7 +5,7 @@ permalink: /bestuur/
 ---
 
 # Daphne Springveld (Voorzitter)
-Ik ben begonnen met floorball op de universiteit Twente. Ik was helemaal niet van plan om te gaan sporten tijdens mijn studie, maar een vriend van me overtuigde me om een keertje mee te gaan om floorball te proberen. In eerste instantie kwam ik vooral voor de gezelligheid bij de vereniging, maar langzamerhand ben ik ook steeds beter in het spelletje geworden. 
+Ik ben begonnen met floorball op de universiteit Twente. Ik was helemaal niet van plan om te gaan sporten tijdens mijn studie, maar een vriend van me overtuigde me om een keertje mee te gaan om floorball te proberen. In eerste instantie kwam ik vooral voor de gezelligheid bij de vereniging, maar langzamerhand ben ik ook steeds beter in het spelletje geworden.
 
 Inmiddels train ik mee bij het Nationale dames team! Ik word scheikunde docent op de middelbare school en vind het met de floorball jeugd hartstikke leuk om me bezig te houden met de floorball didactiek en opvoedkunde in sportlessen. 
 

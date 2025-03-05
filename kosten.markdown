@@ -26,4 +26,4 @@ Stick en veiligheidsbrilletje:
 
 Competitie:
 
-Op dit moment is er (nog) geen jeugd floorball competitie in regio Enschede. In plaats daarvan organiseren we maandelijkse interne wedstrijden en doen we elke ‘periode’ mee aan een groter toernooi. De kosten van deze toernooien bestaan uit de reiskosten, de toernooien zelf zijn gratis.
+Op dit moment is er (nog) geen jeugd floorball competitie in regio Enschede. In plaats daarvan organiseren we maandelijkse interne wedstrijden en doen we elke ‘periode’ mee aan een groter toernooi. De kosten van deze toernooien bestaan uit de reiskosten, de toernooien zelf zijn gratis. 
