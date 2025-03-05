@@ -4,9 +4,12 @@ title: Trainingstijden
 permalink: /Trainingstijden/
 ---
 
-# Training 1: Maandag 16:00-17:00
-Deze training is bedoeld voor kinderen van de basisschool. Leeftijd 7 - 12 jaar~.
+**Waar:**   Buurthuis Lumen, Velveweg 54, Enschede. In de grote gymzaal.  
+**Kosten:** 3x Gratis, daarna 10 euro per maand.
 
-# Training 2: Maandag 17:00-18:00
-Deze training is bedoeld voor kinderen van de middelbare school, maar ook kinderen van de laatste groep(en) van de basisschool. Leeftijd 11-17 jaar~
+Training 1, kinderen van de basisschool~  
+**Wanneer:** Maandag 16:00 – 17:00 
+
+Training 2, kinderen van de middelbare school~  
+**Wanneer:** Maandag 17:00 – 18:00 
 

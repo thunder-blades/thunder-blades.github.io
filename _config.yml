@@ -37,10 +37,10 @@ header_pages:
   - about.markdown
   - bestuur.markdown
   - floorball.markdown
-  - kosten.markdown
-  - Gezamenlijke activiteiten.markdown
   - Trainingen.markdown
-
+  - Gezamenlijke activiteiten.markdown
+  - kosten.markdown
+ 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
