@@ -1,11 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title:
+title: Ontdek de magie van floorball!
 layout: home
 ---
-
-# Ontdek de magie van floorball!
 
 Vindt jij floorball / unihockey leuk, of lijkt het je gewoon leuk het een keertje te proberen? Dat kan! Je kunt 3 keer gratis een floorball les bij ons komen bijwonen. 
 
