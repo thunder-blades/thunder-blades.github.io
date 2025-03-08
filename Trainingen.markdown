@@ -12,7 +12,3 @@ Training 1, kinderen van de basisschool~
 
 Training 2, kinderen van de middelbare school~  
 **Wanneer:** Maandag 17:00 – 18:00 
-
-/Images/IMG_2238.JPG
-/images/Logo.jpeg
-![Alt text](/images/IMG_2238.jpg)
