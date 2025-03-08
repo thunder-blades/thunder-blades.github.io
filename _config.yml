@@ -31,7 +31,7 @@ instagram_username: E.F.C.Thunderblades
 #github_username:  jekyll
 
 # Build settings
-theme: Cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
