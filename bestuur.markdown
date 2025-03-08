@@ -14,7 +14,7 @@ Ik speel nu zo’n 10 jaar floorball. Op de middelbare school speelden we vaak u
 
 Het plezier wat ikzelf heb tijdens het floorballen zie ik ook bij veel verenigingsgenoten en andere floorballers in Nederland terug. Ook bij clinics en trainingen aan kinderen straalt het plezier van de gezichtjes af. Ik zou het fantastisch vinden als we de kinderen dit plezier wekelijks kunnen geven.
 
-# Nadia M'jouel (Secreatirs)
+# Nadia M'jouel (Secretaris)
 Mijn zoon is met floorball begonnen toen hij in groep 5 zat, samen met vriendjes vanuit zijn klas. Bij het floorballen heb ik hem steeds handiger zien worden, maar daarnaast ook steeds zelfverzekerder. Het is leuk om te zien hoeveel er tijdens de trainingen naar elkaar om wordt gekeken. Dat is ook één van de belangrijkste kernwaardes die wij binnen de vereniging proberen hoog te houden. Plezier en naar elkaar omkijken staan bovenaan! 
 
 Ik hoop dat we meer kinderen de kans kunnen geven om zich te ontwikkelen binnen het floorballen, zeker ook kinderen die het van huis uit wat moeilijker hebben.
