@@ -7,9 +7,9 @@ permalink: /floorball/
 # Floorball versies
 Er bestaan meerdere versies van floorball, waarbij 5 vs 5 + goalie het "echte" floorball is. Jeugd begint vanaf 14 jaar met deze versie: [https://www.youtube.com/watch?v=9hCNO6csEWU](https://www.youtube.com/watch?v=9hCNO6csEWU) 
 
-Van 12 tot 14 jaar wordt er 3 vs 3 + goalie gespeeld op een kleiner veld. Deze versie wordt ook bij de senioren competitief gespeeld: [https://www.youtube.com/watch?v=gVcACFgONGg](https://www.youtube.com/watch?v=gVcACFgONGg)
+Van 12 tot 14 jaar wordt er 3 vs 3 + goalie gespeeld op een kleiner veld. Deze versie wordt ook bij de senioren competitief gespeeld: [https://youtu.be/gVcACFgONGg?t=580](https://youtu.be/gVcACFgONGg?t=580)
 
-Tot aan 12 speelt de jeugd 4 vs 4 met een klein goaltje zonder vaste goalie. Ook deze versie wordt bij de senioren competitief gespeeld, echter met vooral recreatieve spelers: [https://www.youtube.com/watch?v=ortc-f__i-A](https://www.youtube.com/watch?v=ortc-f__i-A)
+Tot aan 12 speelt de jeugd 4 vs 4 met een klein goaltje zonder vaste goalie. Ook deze versie wordt bij de senioren competitief gespeeld, echter met vooral recreatieve spelers: [https://youtu.be/ortc-f__i-A?t=714](https://youtu.be/ortc-f__i-A?t=714)
 
 # Wat is floorball?
 Floorball is de snelste zaalsport te wereld. De sport is ontstaan in Scandinavië vanuit ijshockey en nu hard bezig heel Europa en de rest van de wereld te veroveren. In Nederland is de sport op basisscholen soms ook wel bekend als unihockey.
