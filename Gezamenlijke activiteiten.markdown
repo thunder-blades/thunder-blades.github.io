@@ -10,6 +10,6 @@ permalink: /Gezamenlijke_activiteiten/
 # Samen eten na training:
 1x per 3 maanden, organiseren we een gezamenlijk etentje na de training. Dit etentje is in hetzelfde gebouw als waar we ook sporten, Buurthuis Lumen. Het eten wordt geregeld door de dames van Warm Hart Maaltijden. 
 
-In November hebben we gezellig samen pannenkoeken gegeten, en de kinderen ook mee laten denken voor het logo! In Februari stond paste bolognese op het menu.
+In November hebben we gezellig samen pannenkoeken gegeten, en de kinderen ook mee laten denken voor het logo! In Februari stond pasta bolognese op het menu.
 
 In mei staat de volgende activiteit op het programma!
