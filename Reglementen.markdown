@@ -9,7 +9,7 @@ permalink: /Reglementen/
 Wij vinden het ontzettend belangrijk dat iedereen binnen de vereniging op een juiste manier met elkaar omgaat. 
 
 De gedragsregels van EFC Thunderblades sluiten hierbij aan:
-thunder-blades/thunder-blades.github.io/_posts/Logo.jpeg
+/thunder-blades/thunder-blades.github.io/_posts/Logo.jpeg
 
 # Vertrouwens contactpersoon (VCP)
 Wij hebben op dit moment nog geen eigen VCPn binnen de vereniging.  
