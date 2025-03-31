@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Ontdek de magie van floorball!
-layout: home
+layout: page
+title: Meldingen & Reglementen
+permalink: /Reglementen/
 ---
 
 Op deze pagina vind je de reglementen van EFC Thunderblades.
