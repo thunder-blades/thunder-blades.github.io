@@ -12,4 +12,4 @@ permalink: /Gezamenlijke_activiteiten/
 
 In November hebben we gezellig samen pannenkoeken gegeten, en de kinderen ook mee laten denken voor het logo! In Februari stond pasta bolognese op het menu.
 
-In mei staat de volgende activiteit op het programma!
+Op 12 mei staat de volgende activiteit op het programma! 
