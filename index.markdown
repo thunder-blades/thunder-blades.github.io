@@ -5,7 +5,7 @@ title: Ontdek de magie van floorball!
 layout: home
 ---
 
-Vindt jij floorball / unihockey leuk, of lijkt het je gewoon leuk het een keertje te proberen? Dat kan! Je kunt 3 keer gratis een floorball les bij ons komen bijwonen, daarna 10 euro per maand. Graag even contact met ons opnemen als je mee wilt komen doen!
+Vindt jij floorball / unihockey leuk, of lijkt het je gewoon leuk het een keertje te proberen? Dat kan! Je kunt **3 keer gratis** een floorball les bij ons komen bijwonen, daarna 10 euro per maand. Graag even contact met ons opnemen als je mee wilt komen doen!
 
 Vorig jaar hebben wij de floorball vereniging EFC Thunderblades opgericht. Wij zijn een kleine, gezellige vereniging en vinden het vooral ook heel belangrijk om meer te zijn dan alleen een plek om te kunnen sporten. 
 
@@ -13,7 +13,7 @@ Voor ons is het belangrijk dat alle kinderen gewoon lekker kunnen sporten, hun g
 
 We hebben 2 locaties waar je kunt komen floorballen.
 
-Vanaf 25 augustus beginnen we weer in Buurthuis Lumen en vanaf 4 september in de Pathmoshal. Het is bij elke training mogelijk om uit te komen proberen.
+Vanaf 25 augustus beginnen we weer in Buurthuis Lumen en vanaf 4 september in de Pathmoshal. **Het is bij elke training mogelijk om uit te komen proberen.**
 
 We zien je graag langskomen!
 
