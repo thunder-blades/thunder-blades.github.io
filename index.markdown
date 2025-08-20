@@ -17,16 +17,21 @@ Vanaf 25 augustus beginnen we weer in Buurthuis Lumen en vanaf 4 september in de
 
 We zien je graag langskomen!
 
-Locatie 1:     Buurthuis Lumen, Velveweg 54, Enschede. In de grote gymzaal.
+**Locatie 1:**     Buurthuis Lumen, Velveweg 54, Enschede. In de grote gymzaal.
+\
 **Wie:**       Training 1, kinderen van de basisschool~  
 **Wanneer:**   Maandag 16:00 – 17:00 
+
 
 **Wie:**       Training 2, kinderen van de middelbare school~  
 **Wanneer:**   Maandag 17:00 – 18:00 
 
-Locatie 2:     Pathmoshal, Veilingstraat 20, EnschedeVelveweg 54, Enschede. 
-**Wie:**       Alle leeftijden. We verdelen de hal.
+
+**Locatie 2:**     Pathmoshal, Veilingstraat 20, Enschede
+\
+**Wie:**       Alle leeftijden. We verdelen de hal.\
 **Wanneer:**   Donderdag 17:00 – 18:00 
+
 
 Wij hebben het floorball materiaal , dus je hoeft alleen je normale gymspullen mee te nemen.
 Aanmelden kan door een mailtje te sturen naar [bestuur.floorballenschede@gmail.com](mailto:bestuur.floorballenschede@gmail.com)
