@@ -11,9 +11,7 @@ Vorig jaar hebben wij de floorball vereniging EFC Thunderblades opgericht. Wij z
 
 Voor ons is het belangrijk dat alle kinderen gewoon lekker kunnen sporten, hun grenzen leren verkennen en plezier hebben. Voor ons is het niet het belangrijkste dat je de allerbeste bent, we waarderen het juist als je naar anderen omkijkt en een echte teamspeler wordt/bent.
 
-We hebben 2 locaties waar je kunt komen floorballen.
-
-Vanaf 25 augustus beginnen we weer in Buurthuis Lumen en vanaf 4 september in de Pathmoshal. **Het is bij elke training mogelijk om uit te komen proberen.**
+We hebben 2 locaties waar je kunt komen floorballen. **Het is bij elke training mogelijk om uit te komen proberen.**
 
 We zien je graag langskomen!
 
