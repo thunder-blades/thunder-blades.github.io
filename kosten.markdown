@@ -26,10 +26,11 @@ Stick en veiligheidsbrilletje:
 - De kosten voor de stick zijn €25,-, voor een veiligheidsbrilletje €15,-
 
 # Competitie:
-Op dit moment is er (nog) geen jeugd floorball competitie in regio Enschede. 
-Met de oudere jeugd (vanaf 11 jaar) doen we mee aan de competitie in regio Groningen. We hebben 10 wedstrijden in een jaar, dus ongeveer 1x per 3 weken. 
-Verder doen we mee aan een aantal toernooien waar alle jeugd aan mee kan doen. In het laatste weekend van de kerstvakantie organiseren wij zelf een toernooi in Enschede met tegenstanders uit heel Nederland en ook uit Duitsland.
+- Op dit moment is er (nog) geen jeugd floorball competitie in regio Enschede. 
+- Met de oudere jeugd (vanaf 11 jaar) doen we mee aan de competitie in regio Groningen. We hebben 10 wedstrijden in een jaar, dus ongeveer 1x per 3 weken. 
+- Verder doen we mee aan een aantal toernooien waar alle jeugd aan mee kan doen. In het laatste weekend van de kerstvakantie organiseren wij zelf een toernooi in Enschede met tegenstanders uit heel Nederland en ook uit Duitsland.
 
 De kosten hiervan worden los verrekend.
 
+# Stichting leergeld
 Wij zijn aangesloten bij stichting leergeld. Stichting leergeld kan maximaal €350 euro vergoeden voor bijvoorbeeld contributie en materiaal. Meer informatie op [www.leergeldenschede.nl](www.leergeldenschede.nl)
