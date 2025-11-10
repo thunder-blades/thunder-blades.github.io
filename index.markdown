@@ -19,11 +19,9 @@ We zien je graag langskomen!
 \
 **Wie:**       Training 1, 6 t/m 10 jaar.\
 **Wanneer:**   Maandag 16:00 – 17:00.\
-\
 
 **Wie:**       Training 2, 11 t/m 17 jaar.\
 **Wanneer:**   Maandag 17:00 – 18:00.\
-\
 
 **Locatie 2:**     Pathmoshal, Veilingstraat 20, Enschede
 \
