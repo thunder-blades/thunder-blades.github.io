@@ -9,7 +9,7 @@ Wij vinden het ontzettend belangrijk dat iedereen binnen de vereniging op een ju
 **Behandel anderen zoals je ook graag zelf behandeld zou willen worden!**
 
 De gedragsregels van EFC Thunderblades sluiten hierbij aan:
-[Download de gedragsregels](/assets/pdf/gedragsregels.pdf)
+[Download de gedragsregels](/assets/gedragsregels.pdf)
 
 # Vertrouwenscontactpersoon (VCP)
 Als er zich iets heeft voorgedaan bij de vereniging met betrekking tot grensoverschrijdend gedrag zoals seksuele intimidatie, pesten of discriminatie, kun je terecht bij de vertrouwenscontactpersoon. De VCP biedt een luisterend oor en kan helpen met verdere vervolgstappen. 
