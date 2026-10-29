@@ -16,7 +16,6 @@ permalink: /Trainingstijden/
 \
 **Wie:**       6 t/m 11 jaar.\
 **Wanneer:**   Donderdag 17:00 – 18:00.
-
 \
 **Wie:**       12 t/m 15 jaar.\
 **Wanneer:**   Donderdag 17:00 – 18:00.
