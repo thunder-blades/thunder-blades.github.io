@@ -31,9 +31,9 @@ Het is niet verplicht om mee te doen aan competitie.
 - Op dit moment is er (nog) geen jeugd floorball competitie in regio Enschede.
 - Met de oudere jeugd (vanaf 11 jaar) doen we mee aan de competitie in regio Groningen. We hebben 10 wedstrijden in een jaar, dus ongeveer 1x per 3 weken.
 - Met de jongere jeugd (tot 11 jaar) doen we een aantal keer per jaar mee aan toernooien in regio Utrecht.
-- Verder doen we mee aan een aantal toernooien waar alle jeugd aan mee kan doen. In het laatste weekend van de kerstvakantie organiseren wij zelf een toernooi in Enschede met tegenstanders uit heel Nederland en ook uit Duitsland.
+- In het laatste weekend van de kerstvakantie organiseren wij zelf een toernooi in Enschede met tegenstanders uit heel Nederland en ook uit Duitsland.
 
-De kosten hiervan worden los verrekend.
+De kosten voor deelname aan wedstrijden worden los verrekend.
 
 # Stichting leergeld
 Wij werken samen met Stichting Leergeld. Heb je je aangemeld? Dan kan Stichting Leergeld de kosten voor floorball vergoeden. Denk aan materiaal, contributie en competitie.
