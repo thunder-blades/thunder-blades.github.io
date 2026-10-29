@@ -12,9 +12,11 @@ De gedragsregels van EFC Thunderblades sluiten hierbij aan:
 [Download de gedragsregels](/assets/gedragsregels.pdf)
 
 # Vertrouwenscontactpersoon (VCP)
-Als er zich iets heeft voorgedaan bij de vereniging met betrekking tot grensoverschrijdend gedrag zoals seksuele intimidatie, pesten of discriminatie, kun je terecht bij de vertrouwenscontactpersoon. De VCP biedt een luisterend oor en kan helpen met verdere vervolgstappen. 
+Voel je je niet prettig of heb je te maken met grensoverschrijdend gedrag, zoals pesten, discriminatie, intimidatie of seksuele intimidatie? Dan kun je terecht bij onze vertrouwenscontactpersoon (VCP).
 
-Frederike-Simons Post, is onze vertrouwenscontactpersoon. Je kunt haar contacteren via: 
+Onze VCP is Frederike-Simons Post, de moeder van Sybren en Lieuwe. Zij luistert naar je verhaal, denkt met je mee en helpt je bij het vinden van een passende oplossing.
+Je kunt haar bereiken via: 
 
-Frederike behandeld de informatie anoniem. 
+Je verhaal wordt vertrouwelijk behandeld. Dit betekent dat informatie niet zomaar met anderen wordt gedeeld. Soms kan het nodig zijn om vervolgstappen te bespreken.
 
+Je hoeft er niet alleen voor te staan. Je mag altijd contact opnemen.
